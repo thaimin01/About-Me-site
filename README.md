@@ -32,3 +32,13 @@ A place where my projects are shared, presented and in progress !
 
 
 If you want to check out my Website go to this link !: https://thaimin01.github.io/About-Me-site/index.html
+
+
+
+
+
+This project only use AI for setting up, finding code logic. The code is pure human slop, coded by me
+
+Credit to my Dad for teaching me HTML, CSS
+
+Made on Earth by Humans
